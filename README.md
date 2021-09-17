@@ -15,3 +15,7 @@ Give `box-sizing: border-box` to the HTML element, `margin: 0` and `min-height: 
 ## TEST
 
 Add `console.log(testing')` in the js file
+
+## AUTHOR
+
+- **Carlos Mertens | Web Developer** - _Mertens-Applications [Founder & CEO]_
